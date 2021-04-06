@@ -2,9 +2,9 @@
 
 ![Texto alternativo](/ruta/a/la/imagen.jpg)
 
-* **Ciudad**: Santa Fe
+* **Ciudad**: San Luis
 
-* **Edad**: 29
+* **Edad**: 55
 
 * **Telefono**: 3513856143
 
