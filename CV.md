@@ -2,9 +2,9 @@
 
 ![Texto alternativo](/ruta/a/la/imagen.jpg)
 
-* **Ciudad**: Santa Fe
+* **Ciudad**: Cordoba
 
-* **Edad**: 29
+* **Edad**: 35
 
 * **Telefono**: 3513856143
 
