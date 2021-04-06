@@ -2,9 +2,9 @@
 
 ![Texto alternativo](/ruta/a/la/imagen.jpg)
 
-* **Ciudad**: San Luis
+* **Ciudad**: Cordoba
 
-* **Edad**: 55
+* **Edad**: 35
 
 * **Telefono**: 3513856143
 
